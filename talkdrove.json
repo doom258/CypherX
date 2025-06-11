@@ -2,11 +2,11 @@
     "bot-name": "CypherX",
     "description": "CypherX, your friendly assistant!",
     "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
-    "keywords": [],
+    "keywords": [../],
     "documentation-link": "https://cypherxbot.vercel.app",
     "owner-verification": "tylor9kid@gmail.com", 
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {CYPHER-X:~UEsDBBQAAAgIABs7y1pG8tPaWgQAAHkHAAAKAAAAY3JlZHMuanNvbpVU25KiSBD9l3rVmAYRBCI6YhEQEVFQ0daNfSihwJKrRXFzwn*fwO6emYfd2V6eirqcPJnnZH4HWY5LZKEOyN9BQXANKeqXtCsQkMG0CkNEwBAEkEIgA6jsTyNDc2MnZsL7fNz6TIvwRD23acFZJ6E6TY68tphpXvwKHkNQVOcE+78BPC*PJVnizUB0E7I3OkU6cuKuPZSRcdyK5khLlFY4pZXBKa*g0SNCTHAW6cUFpYjAxEKdAzH5Gn3bapnVKrKO1WG09dOkGg3gzDNGxysJtBoPAn3Drr1m2yT61+hv6PKmNxsv7pjbbHcdrLbrgE1E25dMqRD33KihnISX6JDk7*RLHGUoMAOUUUy7L9d9tCj2C*MtDN6k*Oagt0tdh*tB3J7tfXeyF*Y9t1mOLA4bQ*wa8bt1CTnpXin3U0o33nbdXsZhCxnaHCJvzS293f2uVslk3sS*EnfIp1fi*1P3Ts2MjrseGnezsHmvzEpzLrnxEjXqS03t6PI2MySDKBPG*Bp9p74qFkeLLFylk6k7o*vMrW*HhsNWG9z8OWefJLrU+GSq*6QPaUV+xzJNWTfh+N0J5nUZJVdpUQmJ6LIFsxpHZH8NRSQd7WQ7iGzhki4U3mmp9bYeiNiO6vgmcKdlyLd696JoqtaSVqBBpTSvz4xi1JkBkNnHEBAU4ZISSHGePfeE8RDAoN4inyD6LC9wkOo1zSFs43M1qw9tKrrzm1Kw5tS29St3oU6oGdZ2kmvmKxiCguQ+KksUzHFJc9LZqCxhhEog**nXEGSope*C9eE4dghCTErqZVWR5DD4VPXzEPp+XmV022W+2i8QATLzcxtRirOo7OtYZZD4F1wj9QJpCeQQJiX6kSEiKAAyJRX60bVqHvSFHy0dYzqxFTAE6VMQHAAZSOOJMB6zDC8JMsv+UX5relRYFN8yRMEQZLC*DLQ8T8EQJM83HCMyzEgci5wwYvtX*fbjB9keO0AU4qQEMlBtK63yaKHbDips0zAUL1LUqKfxmdynS95VWPuXTpKm68Eusu*tzR29sEU9zWft+pwsJ7rDHk9txtpTdyO+*gMIkMHSdM41v3nLhOqYiedQFSW+8TIB0wVv7KvCpGt*7Tka3x535+TGWNzoOCsNV+oWkaeQFW*aV6HztXn15i2KoGjQlFGj1z5agGrso1+Dra3ae9mdtGbJz*Z17G20LIgY8qLHlausGsmZsp61pSv37MLufg*z1d5qErcQZkF70kt2F6uVkTWufTSNw4BnVGvmTj*8++yf5GNu4aezetn63xCj5xj40Oe*ZHzn3ZuNeQx*gfiYK**Sm9NdZvp16O7qeKzZIoxXtQTPDZz6u5TfDlpNOhj+Sdopnh6Cx+OvISgSSMOcpEAGZXrGYAhIXvXWNbMw*00kVYlMPXrPOoElVX62ww6nqKQwLYDMTsaSMBIEafx+yyF5MYflpffkRjpxUu*tTimKLYX0s7uA0n*6LAGPvwFQSwECFAMUAAAICAAbO8taRvLT2loEAAB5BwAACgAAAAAAAAAAAAAApIEAAAAAY3JlZHMuanNvblBLBQYAAAAAAQABADgAAACCBAAAAAA=
       "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
       "value": "",
       "required": false
