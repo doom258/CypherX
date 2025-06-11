@@ -2,7 +2,7 @@
     "bot-name": "CypherX",
     "description": "CypherX, your friendly assistant!",
     "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
-    "keywords": [../],
+    "keywords": [],
     "documentation-link": "https://cypherxbot.vercel.app",
     "owner-verification": "tylor9kid@gmail.com", 
   "env": {
